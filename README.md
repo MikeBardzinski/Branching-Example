@@ -7,5 +7,5 @@
 Format fixed on xyz-4
 xyz-5 changes
 
-
 Some changes for xyz-6
+Som additional changes for jira/xyz-7
