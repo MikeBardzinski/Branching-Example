@@ -6,3 +6,5 @@
 
 Format fixed on xyz-4
 xyz-5 changes
+
+conflicting change for jira/xyz-7
